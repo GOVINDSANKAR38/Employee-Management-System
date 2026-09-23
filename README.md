@@ -118,6 +118,4 @@ Frontend will run on `http://localhost:3000`.
 ![Update Employee](images/update-employee.png)
 
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
